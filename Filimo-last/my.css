@@ -1,0 +1,31 @@
+#my{
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)),
+    url('images/126288_desktop_1_v1.jpeg');
+    width: 100%;
+    height: scr;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+}
+#my-2{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.52), rgba(0, 0, 0, 0.73)),
+    url(./images/mov_cvr_filimo_hor_150588_691.jpg);
+    width: 100%;
+    height: scr;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+}
+#my-3{
+    background-image: linear-gradient(to left, rgb(0, 150, 155), rgb(0, 0, 0));
+    width: 100%;
+    height: 550px;
+    background-size: cover;
+    padding: 20px;
+}
+#my-4{
+    background-image:url(./images/bg-cinama.png);
+    background-size: cover;
+    padding: 20px;
+}
